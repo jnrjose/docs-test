@@ -5,7 +5,7 @@
     "light": "/logo/sec/black.svg",
     "dark": "/logo/sec/white.svg"
   },
-  "favicon": "/favicon.png",
+  "favicon": "/logo/sec/white.svg",
   "colors": {
     "primary": "#0069ED",
     "light": "#4D9CFF",
@@ -15,12 +15,13 @@
     {
       "name": "Documentation",
       "url": "https://docs.withedge.co"
-    }
+    },
   ],
   "topbarCtaButton": {
     "name": "Get Started",
     "url": "https://app.withedge.co/register"
   },
+
   "anchors": [
     {
       "name": "API Reference",
