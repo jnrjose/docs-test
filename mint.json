@@ -5,7 +5,7 @@
     "light": "/logo/sec/black.svg",
     "dark": "/logo/sec/white.svg"
   },
-  "favicon": "/logo/sec/white.svg",
+  "favicon": "/favicon_old.png",
   "colors": {
     "primary": "#0069ED",
     "light": "#4D9CFF",
@@ -15,13 +15,12 @@
     {
       "name": "Documentation",
       "url": "https://docs.withedge.co"
-    },
+    }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
     "url": "https://app.withedge.co/register"
   },
-
   "anchors": [
     {
       "name": "API Reference",
@@ -53,13 +52,10 @@
       ]
     }
   ],
-  {
-  ...
   "openapi": "./edge/edge-auth.json",
-  ...
-  }
   "footerSocials": {
-    "twitter": "https://twitter.com/buildwithedge",
-    "linkedin": "https://www.linkedin.com/company/buildwithedge"
+    "twitter": "https://twitter.com/mintlify",
+    "github": "https://github.com/mintlify",
+    "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
 }
