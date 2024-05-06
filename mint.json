@@ -36,7 +36,52 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "features", "Accounts"]
+      "pages": [
+        "introduction",
+        "Authentication",
+        "Onboarding",
+        "Environments",
+        "Compliance",
+        "Fees",  
+        "Customers",
+        
+        {
+          "group": "Account",
+          "pages": [
+            {
+              "group": "Collection",
+              "pages": [
+                {
+                  "group": "NUBAN Accounts",
+                  "pages": ["Personal", "Business"]
+                },
+                {
+                  "group": "Virtual Accounts",
+                  "pages": ["Disposable", "Fixed"]
+                }
+              ]
+            },
+            "Settlement"
+          ]
+        },
+        {
+          "group": "Payment",
+          "pages": [
+            {
+              "group": "Instant Transfer",
+              "pages": ["Single", "Bulk"]
+            },
+            {
+              "group": "Near Instant",
+              "pages": ["RTGS", "Large Value Transaction"]
+            }
+          ]
+        },
+        {
+          "group": "Lending",
+          "pages": ["Affordability Check", "Credit Scoring"]
+        }
+      ]
     },
     {
       "group": "API Documentation",
@@ -54,8 +99,11 @@
   ],
   "openapi": "./edge/edge-auth.json",
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/buildwithedge",
+    "linkedin": "https://www.linkedin.com/company/buildwithedge",
+    "website": "https://withedge.co/",
+    "blog": "https://sync.withedge.co"
+
+      
   }
 }
