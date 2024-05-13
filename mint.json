@@ -38,16 +38,16 @@
       "group": "Home",
       "pages": [
         "introduction",
-        "Authentication",
-        "Onboarding",
-        "Environments",
-        "Compliance",
-        "Fees",  
-        "Customers",
+        "authentication",
+        "onboarding",
+        "environments",
+        "compliance",
+        "fees",  
+        "customers",
         
         {
           "group": "Account",
-          "pages": [
+          "pages": [ "Bank-Accounts",
             {
               "group": "Collection",
               "pages": [
