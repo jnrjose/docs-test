@@ -1,0 +1,1363 @@
+[
+    {
+        "country_name": "Afghanistan",
+        "iso_alpha2": "AF",
+        "iso_alpha3": "AFG",
+        "telephone_code": "+93",
+        "flag": "https://flagcdn.com/af.svg"
+    },
+    {
+        "country_name": "Albania",
+        "iso_alpha2": "AL",
+        "iso_alpha3": "ALB",
+        "telephone_code": "+355",
+        "flag": "https://flagcdn.com/al.svg"
+    },
+    {
+        "country_name": "Algeria",
+        "iso_alpha2": "DZ",
+        "iso_alpha3": "DZA",
+        "telephone_code": "+213",
+        "flag": "https://flagcdn.com/dz.svg"
+    },
+    {
+        "country_name": "Andorra",
+        "iso_alpha2": "AD",
+        "iso_alpha3": "AND",
+        "telephone_code": "+376",
+        "flag": "https://flagcdn.com/ad.svg"
+    },
+    {
+        "country_name": "Angola",
+        "iso_alpha2": "AO",
+        "iso_alpha3": "AGO",
+        "telephone_code": "+244",
+        "flag": "https://flagcdn.com/ao.svg"
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "iso_alpha2": "AG",
+        "iso_alpha3": "ATG",
+        "telephone_code": "+1-268",
+        "flag": "https://flagcdn.com/ag.svg"
+    },
+    {
+        "country_name": "Argentina",
+        "iso_alpha2": "AR",
+        "iso_alpha3": "ARG",
+        "telephone_code": "+54",
+        "flag": "https://flagcdn.com/ar.svg"
+    },
+    {
+        "country_name": "Armenia",
+        "iso_alpha2": "AM",
+        "iso_alpha3": "ARM",
+        "telephone_code": "+374",
+        "flag": "https://flagcdn.com/am.svg"
+    },
+    {
+        "country_name": "Australia",
+        "iso_alpha2": "AU",
+        "iso_alpha3": "AUS",
+        "telephone_code": "+61",
+        "flag": "https://flagcdn.com/au.svg"
+    },
+    {
+        "country_name": "Austria",
+        "iso_alpha2": "AT",
+        "iso_alpha3": "AUT",
+        "telephone_code": "+43",
+        "flag": "https://flagcdn.com/at.svg"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "iso_alpha2": "AZ",
+        "iso_alpha3": "AZE",
+        "telephone_code": "+994",
+        "flag": "https://flagcdn.com/az.svg"
+    },
+    {
+        "country_name": "Bahamas",
+        "iso_alpha2": "BS",
+        "iso_alpha3": "BHS",
+        "telephone_code": "+1-242",
+        "flag": "https://flagcdn.com/bs.svg"
+    },
+    {
+        "country_name": "Bahrain",
+        "iso_alpha2": "BH",
+        "iso_alpha3": "BHR",
+        "telephone_code": "+973",
+        "flag": "https://flagcdn.com/bh.svg"
+    },
+    {
+        "country_name": "Bangladesh",
+        "iso_alpha2": "BD",
+        "iso_alpha3": "BGD",
+        "telephone_code": "+880",
+        "flag": "https://flagcdn.com/bd.svg"
+    },
+    {
+        "country_name": "Barbados",
+        "iso_alpha2": "BB",
+        "iso_alpha3": "BRB",
+        "telephone_code": "+1-246",
+        "flag": "https://flagcdn.com/bb.svg"
+    },
+    {
+        "country_name": "Belarus",
+        "iso_alpha2": "BY",
+        "iso_alpha3": "BLR",
+        "telephone_code": "+375",
+        "flag": "https://flagcdn.com/by.svg"
+    },
+    {
+        "country_name": "Belgium",
+        "iso_alpha2": "BE",
+        "iso_alpha3": "BEL",
+        "telephone_code": "+32",
+        "flag": "https://flagcdn.com/be.svg"
+    },
+    {
+        "country_name": "Belize",
+        "iso_alpha2": "BZ",
+        "iso_alpha3": "BLZ",
+        "telephone_code": "+501",
+        "flag": "https://flagcdn.com/bz.svg"
+    },
+    {
+        "country_name": "Benin",
+        "iso_alpha2": "BJ",
+        "iso_alpha3": "BEN",
+        "telephone_code": "+229",
+        "flag": "https://flagcdn.com/bj.svg"
+    },
+    {
+        "country_name": "Bhutan",
+        "iso_alpha2": "BT",
+        "iso_alpha3": "BTN",
+        "telephone_code": "+975",
+        "flag": "https://flagcdn.com/bt.svg"
+    },
+    {
+        "country_name": "Bolivia",
+        "iso_alpha2": "BO",
+        "iso_alpha3": "BOL",
+        "telephone_code": "+591",
+        "flag": "https://flagcdn.com/bo.svg"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "iso_alpha2": "BA",
+        "iso_alpha3": "BIH",
+        "telephone_code": "+387",
+        "flag": "https://flagcdn.com/ba.svg"
+    },
+    {
+        "country_name": "Botswana",
+        "iso_alpha2": "BW",
+        "iso_alpha3": "BWA",
+        "telephone_code": "+267",
+        "flag": "https://flagcdn.com/bw.svg"
+    },
+    {
+        "country_name": "Brazil",
+        "iso_alpha2": "BR",
+        "iso_alpha3": "BRA",
+        "telephone_code": "+55",
+        "flag": "https://flagcdn.com/br.svg"
+    },
+    {
+        "country_name": "Brunei",
+        "iso_alpha2": "BN",
+        "iso_alpha3": "BRN",
+        "telephone_code": "+673",
+        "flag": "https://flagcdn.com/bn.svg"
+    },
+    {
+        "country_name": "Bulgaria",
+        "iso_alpha2": "BG",
+        "iso_alpha3": "BGR",
+        "telephone_code": "+359",
+        "flag": "https://flagcdn.com/bg.svg"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "iso_alpha2": "BF",
+        "iso_alpha3": "BFA",
+        "telephone_code": "+226",
+        "flag": "https://flagcdn.com/bf.svg"
+    },
+    {
+        "country_name": "Burundi",
+        "iso_alpha2": "BI",
+        "iso_alpha3": "BDI",
+        "telephone_code": "+257",
+        "flag": "https://flagcdn.com/bi.svg"
+    },
+    {
+        "country_name": "Cabo Verde",
+        "iso_alpha2": "CV",
+        "iso_alpha3": "CPV",
+        "telephone_code": "+238",
+        "flag": "https://flagcdn.com/cv.svg"
+    },
+    {
+        "country_name": "Cambodia",
+        "iso_alpha2": "KH",
+        "iso_alpha3": "KHM",
+        "telephone_code": "+855",
+        "flag": "https://flagcdn.com/kh.svg"
+    },
+    {
+        "country_name": "Cameroon",
+        "iso_alpha2": "CM",
+        "iso_alpha3": "CMR",
+        "telephone_code": "+237",
+        "flag": "https://flagcdn.com/cm.svg"
+    },
+    {
+        "country_name": "Canada",
+        "iso_alpha2": "CA",
+        "iso_alpha3": "CAN",
+        "telephone_code": "+1",
+        "flag": "https://flagcdn.com/ca.svg"
+    },
+    {
+        "country_name": "Central African Republic",
+        "iso_alpha2": "CF",
+        "iso_alpha3": "CAF",
+        "telephone_code": "+236",
+        "flag": "https://flagcdn.com/cf.svg"
+    },
+    {
+        "country_name": "Chad",
+        "iso_alpha2": "TD",
+        "iso_alpha3": "TCD",
+        "telephone_code": "+235",
+        "flag": "https://flagcdn.com/td.svg"
+    },
+    {
+        "country_name": "Chile",
+        "iso_alpha2": "CL",
+        "iso_alpha3": "CHL",
+        "telephone_code": "+56",
+        "flag": "https://flagcdn.com/cl.svg"
+    },
+    {
+        "country_name": "China",
+        "iso_alpha2": "CN",
+        "iso_alpha3": "CHN",
+        "telephone_code": "+86",
+        "flag": "https://flagcdn.com/cn.svg"
+    },
+    {
+        "country_name": "Colombia",
+        "iso_alpha2": "CO",
+        "iso_alpha3": "COL",
+        "telephone_code": "+57",
+        "flag": "https://flagcdn.com/co.svg"
+    },
+    {
+        "country_name": "Comoros",
+        "iso_alpha2": "KM",
+        "iso_alpha3": "COM",
+        "telephone_code": "+269
+
+",
+        "flag": "https://flagcdn.com/km.svg"
+    },
+    {
+        "country_name": "Congo (Congo-Brazzaville)",
+        "iso_alpha2": "CG",
+        "iso_alpha3": "COG",
+        "telephone_code": "+242",
+        "flag": "https://flagcdn.com/cg.svg"
+    },
+    {
+        "country_name": "Costa Rica",
+        "iso_alpha2": "CR",
+        "iso_alpha3": "CRI",
+        "telephone_code": "+506",
+        "flag": "https://flagcdn.com/cr.svg"
+    },
+    {
+        "country_name": "Croatia",
+        "iso_alpha2": "HR",
+        "iso_alpha3": "HRV",
+        "telephone_code": "+385",
+        "flag": "https://flagcdn.com/hr.svg"
+    },
+    {
+        "country_name": "Cuba",
+        "iso_alpha2": "CU",
+        "iso_alpha3": "CUB",
+        "telephone_code": "+53",
+        "flag": "https://flagcdn.com/cu.svg"
+    },
+    {
+        "country_name": "Cyprus",
+        "iso_alpha2": "CY",
+        "iso_alpha3": "CYP",
+        "telephone_code": "+357",
+        "flag": "https://flagcdn.com/cy.svg"
+    },
+    {
+        "country_name": "Czechia (Czech Republic)",
+        "iso_alpha2": "CZ",
+        "iso_alpha3": "CZE",
+        "telephone_code": "+420",
+        "flag": "https://flagcdn.com/cz.svg"
+    },
+    {
+        "country_name": "Denmark",
+        "iso_alpha2": "DK",
+        "iso_alpha3": "DNK",
+        "telephone_code": "+45",
+        "flag": "https://flagcdn.com/dk.svg"
+    },
+    {
+        "country_name": "Djibouti",
+        "iso_alpha2": "DJ",
+        "iso_alpha3": "DJI",
+        "telephone_code": "+253",
+        "flag": "https://flagcdn.com/dj.svg"
+    },
+    {
+        "country_name": "Dominica",
+        "iso_alpha2": "DM",
+        "iso_alpha3": "DMA",
+        "telephone_code": "+1-767",
+        "flag": "https://flagcdn.com/dm.svg"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "iso_alpha2": "DO",
+        "iso_alpha3": "DOM",
+        "telephone_code": "+1-809",
+        "flag": "https://flagcdn.com/do.svg"
+    },
+    {
+        "country_name": "Ecuador",
+        "iso_alpha2": "EC",
+        "iso_alpha3": "ECU",
+        "telephone_code": "+593",
+        "flag": "https://flagcdn.com/ec.svg"
+    },
+    {
+        "country_name": "Egypt",
+        "iso_alpha2": "EG",
+        "iso_alpha3": "EGY",
+        "telephone_code": "+20",
+        "flag": "https://flagcdn.com/eg.svg"
+    },
+    {
+        "country_name": "El Salvador",
+        "iso_alpha2": "SV",
+        "iso_alpha3": "SLV",
+        "telephone_code": "+503",
+        "flag": "https://flagcdn.com/sv.svg"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "iso_alpha2": "GQ",
+        "iso_alpha3": "GNQ",
+        "telephone_code": "+240",
+        "flag": "https://flagcdn.com/gq.svg"
+    },
+    {
+        "country_name": "Eritrea",
+        "iso_alpha2": "ER",
+        "iso_alpha3": "ERI",
+        "telephone_code": "+291",
+        "flag": "https://flagcdn.com/er.svg"
+    },
+    {
+        "country_name": "Estonia",
+        "iso_alpha2": "EE",
+        "iso_alpha3": "EST",
+        "telephone_code": "+372",
+        "flag": "https://flagcdn.com/ee.svg"
+    },
+    {
+        "country_name": "Eswatini (fmr. 'Swaziland')",
+        "iso_alpha2": "SZ",
+        "iso_alpha3": "SWZ",
+        "telephone_code": "+268",
+        "flag": "https://flagcdn.com/sz.svg"
+    },
+    {
+        "country_name": "Ethiopia",
+        "iso_alpha2": "ET",
+        "iso_alpha3": "ETH",
+        "telephone_code": "+251",
+        "flag": "https://flagcdn.com/et.svg"
+    },
+    {
+        "country_name": "Fiji",
+        "iso_alpha2": "FJ",
+        "iso_alpha3": "FJI",
+        "telephone_code": "+679",
+        "flag": "https://flagcdn.com/fj.svg"
+    },
+    {
+        "country_name": "Finland",
+        "iso_alpha2": "FI",
+        "iso_alpha3": "FIN",
+        "telephone_code": "+358",
+        "flag": "https://flagcdn.com/fi.svg"
+    },
+    {
+        "country_name": "France",
+        "iso_alpha2": "FR",
+        "iso_alpha3": "FRA",
+        "telephone_code": "+33",
+        "flag": "https://flagcdn.com/fr.svg"
+    },
+    {
+        "country_name": "Gabon",
+        "iso_alpha2": "GA",
+        "iso_alpha3": "GAB",
+        "telephone_code": "+241",
+        "flag": "https://flagcdn.com/ga.svg"
+    },
+    {
+        "country_name": "Gambia",
+        "iso_alpha2": "GM",
+        "iso_alpha3": "GMB",
+        "telephone_code": "+220",
+        "flag": "https://flagcdn.com/gm.svg"
+    },
+    {
+        "country_name": "Georgia",
+        "iso_alpha2": "GE",
+        "iso_alpha3": "GEO",
+        "telephone_code": "+995",
+        "flag": "https://flagcdn.com/ge.svg"
+    },
+    {
+        "country_name": "Germany",
+        "iso_alpha2": "DE",
+        "iso_alpha3": "DEU",
+        "telephone_code": "+49",
+        "flag": "https://flagcdn.com/de.svg"
+    },
+    {
+        "country_name": "Ghana",
+        "iso_alpha2": "GH",
+        "iso_alpha3": "GHA",
+        "telephone_code": "+233",
+        "flag": "https://flagcdn.com/gh.svg"
+    },
+    {
+        "country_name": "Greece",
+        "iso_alpha2": "GR",
+        "iso_alpha3": "GRC",
+        "telephone_code": "+30",
+        "flag": "https://flagcdn.com/gr.svg"
+    },
+    {
+        "country_name": "Grenada",
+        "iso_alpha2": "GD",
+        "iso_alpha3": "GRD",
+        "telephone_code": "+1-473",
+        "flag": "https://flagcdn.com/gd.svg"
+    },
+    {
+        "country_name": "Guatemala",
+        "iso_alpha2": "GT",
+        "iso_alpha3": "GTM",
+        "telephone_code": "+502",
+        "flag": "https://flagcdn.com/gt.svg"
+    },
+    {
+        "country_name": "Guinea",
+        "iso_alpha2": "GN",
+        "iso_alpha3": "GIN",
+        "telephone_code": "+224",
+        "flag": "https://flagcdn.com/gn.svg"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "iso_alpha2": "GW",
+        "iso_alpha3": "GNB",
+        "telephone_code": "+245",
+        "flag": "https://flagcdn.com/gw.svg"
+    },
+    {
+        "country_name": "Guyana",
+        "iso_alpha2": "GY",
+        "iso_alpha3": "GUY",
+        "telephone_code": "+592",
+        "flag": "https://flagcdn.com/gy.svg"
+    },
+    {
+        "country_name": "Haiti",
+        "iso_alpha2": "HT",
+        "iso_alpha3": "HTI",
+        "telephone_code": "+509",
+        "flag": "https://flagcdn.com/ht.svg"
+    },
+    {
+        "country_name": "Honduras",
+        "iso_alpha2": "HN",
+        "iso_alpha3": "HND",
+        "telephone_code": "+504",
+        "flag": "https://flagcdn.com/hn.svg"
+    },
+    {
+        "country_name": "Hungary",
+        "iso_alpha2": "HU",
+        "iso_alpha3": "HUN",
+        "telephone_code": "+36",
+        "flag": "https://flagcdn.com/hu.svg"
+    },
+    {
+        "country_name": "Iceland",
+        "iso_alpha2": "IS",
+        "iso_alpha3": "ISL",
+        "telephone_code": "+354",
+        "flag": "https://flagcdn.com/is.svg"
+    },
+    {
+        "country_name": "India",
+        "iso_alpha2": "IN",
+        "iso_alpha3": "IND",
+        "telephone_code": "+91",
+        "flag": "https://flagcdn.com/in.svg"
+    },
+    {
+        "country_name": "Indonesia",
+        "iso_alpha2": "ID",
+
+
+ "iso_alpha3": "IDN",
+        "telephone_code": "+62",
+        "flag": "https://flagcdn.com/id.svg"
+    },
+    {
+        "country_name": "Iran",
+        "iso_alpha2": "IR",
+        "iso_alpha3": "IRN",
+        "telephone_code": "+98",
+        "flag": "https://flagcdn.com/ir.svg"
+    },
+    {
+        "country_name": "Iraq",
+        "iso_alpha2": "IQ",
+        "iso_alpha3": "IRQ",
+        "telephone_code": "+964",
+        "flag": "https://flagcdn.com/iq.svg"
+    },
+    {
+        "country_name": "Ireland",
+        "iso_alpha2": "IE",
+        "iso_alpha3": "IRL",
+        "telephone_code": "+353",
+        "flag": "https://flagcdn.com/ie.svg"
+    },
+    {
+        "country_name": "Israel",
+        "iso_alpha2": "IL",
+        "iso_alpha3": "ISR",
+        "telephone_code": "+972",
+        "flag": "https://flagcdn.com/il.svg"
+    },
+    {
+        "country_name": "Italy",
+        "iso_alpha2": "IT",
+        "iso_alpha3": "ITA",
+        "telephone_code": "+39",
+        "flag": "https://flagcdn.com/it.svg"
+    },
+    {
+        "country_name": "Jamaica",
+        "iso_alpha2": "JM",
+        "iso_alpha3": "JAM",
+        "telephone_code": "+1-876",
+        "flag": "https://flagcdn.com/jm.svg"
+    },
+    {
+        "country_name": "Japan",
+        "iso_alpha2": "JP",
+        "iso_alpha3": "JPN",
+        "telephone_code": "+81",
+        "flag": "https://flagcdn.com/jp.svg"
+    },
+    {
+        "country_name": "Jordan",
+        "iso_alpha2": "JO",
+        "iso_alpha3": "JOR",
+        "telephone_code": "+962",
+        "flag": "https://flagcdn.com/jo.svg"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "iso_alpha2": "KZ",
+        "iso_alpha3": "KAZ",
+        "telephone_code": "+7",
+        "flag": "https://flagcdn.com/kz.svg"
+    },
+    {
+        "country_name": "Kenya",
+        "iso_alpha2": "KE",
+        "iso_alpha3": "KEN",
+        "telephone_code": "+254",
+        "flag": "https://flagcdn.com/ke.svg"
+    },
+    {
+        "country_name": "Kiribati",
+        "iso_alpha2": "KI",
+        "iso_alpha3": "KIR",
+        "telephone_code": "+686",
+        "flag": "https://flagcdn.com/ki.svg"
+    },
+    {
+        "country_name": "Kuwait",
+        "iso_alpha2": "KW",
+        "iso_alpha3": "KWT",
+        "telephone_code": "+965",
+        "flag": "https://flagcdn.com/kw.svg"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "iso_alpha2": "KG",
+        "iso_alpha3": "KGZ",
+        "telephone_code": "+996",
+        "flag": "https://flagcdn.com/kg.svg"
+    },
+    {
+        "country_name": "Laos",
+        "iso_alpha2": "LA",
+        "iso_alpha3": "LAO",
+        "telephone_code": "+856",
+        "flag": "https://flagcdn.com/la.svg"
+    },
+    {
+        "country_name": "Latvia",
+        "iso_alpha2": "LV",
+        "iso_alpha3": "LVA",
+        "telephone_code": "+371",
+        "flag": "https://flagcdn.com/lv.svg"
+    },
+    {
+        "country_name": "Lebanon",
+        "iso_alpha2": "LB",
+        "iso_alpha3": "LBN",
+        "telephone_code": "+961",
+        "flag": "https://flagcdn.com/lb.svg"
+    },
+    {
+        "country_name": "Lesotho",
+        "iso_alpha2": "LS",
+        "iso_alpha3": "LSO",
+        "telephone_code": "+266",
+        "flag": "https://flagcdn.com/ls.svg"
+    },
+    {
+        "country_name": "Liberia",
+        "iso_alpha2": "LR",
+        "iso_alpha3": "LBR",
+        "telephone_code": "+231",
+        "flag": "https://flagcdn.com/lr.svg"
+    },
+    {
+        "country_name": "Libya",
+        "iso_alpha2": "LY",
+        "iso_alpha3": "LBY",
+        "telephone_code": "+218",
+        "flag": "https://flagcdn.com/ly.svg"
+    },
+    {
+        "country_name": "Liechtenstein",
+        "iso_alpha2": "LI",
+        "iso_alpha3": "LIE",
+        "telephone_code": "+423",
+        "flag": "https://flagcdn.com/li.svg"
+    },
+    {
+        "country_name": "Lithuania",
+        "iso_alpha2": "LT",
+        "iso_alpha3": "LTU",
+        "telephone_code": "+370",
+        "flag": "https://flagcdn.com/lt.svg"
+    },
+    {
+        "country_name": "Luxembourg",
+        "iso_alpha2": "LU",
+        "iso_alpha3": "LUX",
+        "telephone_code": "+352",
+        "flag": "https://flagcdn.com/lu.svg"
+    },
+    {
+        "country_name": "Madagascar",
+        "iso_alpha2": "MG",
+        "iso_alpha3": "MDG",
+        "telephone_code": "+261",
+        "flag": "https://flagcdn.com/mg.svg"
+    },
+    {
+        "country_name": "Malawi",
+        "iso_alpha2": "MW",
+        "iso_alpha3": "MWI",
+        "telephone_code": "+265",
+        "flag": "https://flagcdn.com/mw.svg"
+    },
+    {
+        "country_name": "Malaysia",
+        "iso_alpha2": "MY",
+        "iso_alpha3": "MYS",
+        "telephone_code": "+60",
+        "flag": "https://flagcdn.com/my.svg"
+    },
+    {
+        "country_name": "Maldives",
+        "iso_alpha2": "MV",
+        "iso_alpha3": "MDV",
+        "telephone_code": "+960",
+        "flag": "https://flagcdn.com/mv.svg"
+    },
+    {
+        "country_name": "Mali",
+        "iso_alpha2": "ML",
+        "iso_alpha3": "MLI",
+        "telephone_code": "+223",
+        "flag": "https://flagcdn.com/ml.svg"
+    },
+    {
+        "country_name": "Malta",
+        "iso_alpha2": "MT",
+        "iso_alpha3": "MLT",
+        "telephone_code": "+356",
+        "flag": "https://flagcdn.com/mt.svg"
+    },
+    {
+        "country_name": "Marshall Islands",
+        "iso_alpha2": "MH",
+        "iso_alpha3": "MHL",
+        "telephone_code": "+692",
+        "flag": "https://flagcdn.com/mh.svg"
+    },
+    {
+        "country_name": "Mauritania",
+        "iso_alpha2": "MR",
+        "iso_alpha3": "MRT",
+        "telephone_code": "+222",
+        "flag": "https://flagcdn.com/mr.svg"
+    },
+    {
+        "country_name": "Mauritius",
+        "iso_alpha2": "MU",
+        "iso_alpha3": "MUS",
+        "telephone_code": "+230",
+        "flag": "https://flagcdn.com/mu.svg"
+    },
+    {
+        "country_name": "Mexico",
+        "iso_alpha2": "MX",
+        "iso_alpha3": "MEX",
+        "telephone_code": "+52",
+        "flag": "https://flagcdn.com/mx.svg"
+    },
+    {
+        "country_name": "Micronesia",
+        "iso_alpha2": "FM",
+        "iso_alpha3": "FSM",
+        "telephone_code": "+691",
+        "flag": "https://flagcdn.com/fm.svg"
+    },
+    {
+        "country_name": "Moldova",
+        "iso_alpha2": "MD",
+        "iso_alpha3": "MDA",
+        "telephone_code": "+373",
+        "flag": "https://flagcdn.com/md.svg"
+    },
+    {
+        "country_name": "Monaco",
+        "iso_alpha2": "MC",
+        "iso_alpha3": "MCO",
+        "telephone_code": "+377",
+        "flag": "https://flagcdn.com/mc.svg"
+    },
+    {
+        "country_name": "Mongolia",
+        "iso_alpha2": "MN",
+        "iso_alpha3": "MNG",
+        "telephone_code": "+976",
+        "flag": "https://flagcdn.com/mn.svg"
+    },
+    {
+        "country_name": "Montenegro",
+        "iso_alpha2": "ME",
+        "iso_alpha3": "MNE",
+        "telephone_code": "+382",
+        "flag": "https://flagcdn.com/me.svg"
+    },
+    {
+        "country_name": "Morocco",
+        "iso_alpha2": "MA",
+        "iso_alpha
+
+3": "MAR",
+        "telephone_code": "+212",
+        "flag": "https://flagcdn.com/ma.svg"
+    },
+    {
+        "country_name": "Mozambique",
+        "iso_alpha2": "MZ",
+        "iso_alpha3": "MOZ",
+        "telephone_code": "+258",
+        "flag": "https://flagcdn.com/mz.svg"
+    },
+    {
+        "country_name": "Myanmar (formerly Burma)",
+        "iso_alpha2": "MM",
+        "iso_alpha3": "MMR",
+        "telephone_code": "+95",
+        "flag": "https://flagcdn.com/mm.svg"
+    },
+    {
+        "country_name": "Namibia",
+        "iso_alpha2": "NA",
+        "iso_alpha3": "NAM",
+        "telephone_code": "+264",
+        "flag": "https://flagcdn.com/na.svg"
+    },
+    {
+        "country_name": "Nauru",
+        "iso_alpha2": "NR",
+        "iso_alpha3": "NRU",
+        "telephone_code": "+674",
+        "flag": "https://flagcdn.com/nr.svg"
+    },
+    {
+        "country_name": "Nepal",
+        "iso_alpha2": "NP",
+        "iso_alpha3": "NPL",
+        "telephone_code": "+977",
+        "flag": "https://flagcdn.com/np.svg"
+    },
+    {
+        "country_name": "Netherlands",
+        "iso_alpha2": "NL",
+        "iso_alpha3": "NLD",
+        "telephone_code": "+31",
+        "flag": "https://flagcdn.com/nl.svg"
+    },
+    {
+        "country_name": "New Zealand",
+        "iso_alpha2": "NZ",
+        "iso_alpha3": "NZL",
+        "telephone_code": "+64",
+        "flag": "https://flagcdn.com/nz.svg"
+    },
+    {
+        "country_name": "Nicaragua",
+        "iso_alpha2": "NI",
+        "iso_alpha3": "NIC",
+        "telephone_code": "+505",
+        "flag": "https://flagcdn.com/ni.svg"
+    },
+    {
+        "country_name": "Niger",
+        "iso_alpha2": "NE",
+        "iso_alpha3": "NER",
+        "telephone_code": "+227",
+        "flag": "https://flagcdn.com/ne.svg"
+    },
+    {
+        "country_name": "Nigeria",
+        "iso_alpha2": "NG",
+        "iso_alpha3": "NGA",
+        "telephone_code": "+234",
+        "flag": "https://flagcdn.com/ng.svg"
+    },
+    {
+        "country_name": "North Korea",
+        "iso_alpha2": "KP",
+        "iso_alpha3": "PRK",
+        "telephone_code": "+850",
+        "flag": "https://flagcdn.com/kp.svg"
+    },
+    {
+        "country_name": "North Macedonia",
+        "iso_alpha2": "MK",
+        "iso_alpha3": "MKD",
+        "telephone_code": "+389",
+        "flag": "https://flagcdn.com/mk.svg"
+    },
+    {
+        "country_name": "Norway",
+        "iso_alpha2": "NO",
+        "iso_alpha3": "NOR",
+        "telephone_code": "+47",
+        "flag": "https://flagcdn.com/no.svg"
+    },
+    {
+        "country_name": "Oman",
+        "iso_alpha2": "OM",
+        "iso_alpha3": "OMN",
+        "telephone_code": "+968",
+        "flag": "https://flagcdn.com/om.svg"
+    },
+    {
+        "country_name": "Pakistan",
+        "iso_alpha2": "PK",
+        "iso_alpha3": "PAK",
+        "telephone_code": "+92",
+        "flag": "https://flagcdn.com/pk.svg"
+    },
+    {
+        "country_name": "Palau",
+        "iso_alpha2": "PW",
+        "iso_alpha3": "PLW",
+        "telephone_code": "+680",
+        "flag": "https://flagcdn.com/pw.svg"
+    },
+    {
+        "country_name": "Palestine State",
+        "iso_alpha2": "PS",
+        "iso_alpha3": "PSE",
+        "telephone_code": "+970",
+        "flag": "https://flagcdn.com/ps.svg"
+    },
+    {
+        "country_name": "Panama",
+        "iso_alpha2": "PA",
+        "iso_alpha3": "PAN",
+        "telephone_code": "+507",
+        "flag": "https://flagcdn.com/pa.svg"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "iso_alpha2": "PG",
+        "iso_alpha3": "PNG",
+        "telephone_code": "+675",
+        "flag": "https://flagcdn.com/pg.svg"
+    },
+    {
+        "country_name": "Paraguay",
+        "iso_alpha2": "PY",
+        "iso_alpha3": "PRY",
+        "telephone_code": "+595",
+        "flag": "https://flagcdn.com/py.svg"
+    },
+    {
+        "country_name": "Peru",
+        "iso_alpha2": "PE",
+        "iso_alpha3": "PER",
+        "telephone_code": "+51",
+        "flag": "https://flagcdn.com/pe.svg"
+    },
+    {
+        "country_name": "Philippines",
+        "iso_alpha2": "PH",
+        "iso_alpha3": "PHL",
+        "telephone_code": "+63",
+        "flag": "https://flagcdn.com/ph.svg"
+    },
+    {
+        "country_name": "Poland",
+        "iso_alpha2": "PL",
+        "iso_alpha3": "POL",
+        "telephone_code": "+48",
+        "flag": "https://flagcdn.com/pl.svg"
+    },
+    {
+        "country_name": "Portugal",
+        "iso_alpha2": "PT",
+        "iso_alpha3": "PRT",
+        "telephone_code": "+351",
+        "flag": "https://flagcdn.com/pt.svg"
+    },
+    {
+        "country_name": "Qatar",
+        "iso_alpha2": "QA",
+        "iso_alpha3": "QAT",
+        "telephone_code": "+974",
+        "flag": "https://flagcdn.com/qa.svg"
+    },
+    {
+        "country_name": "Romania",
+        "iso_alpha2": "RO",
+        "iso_alpha3": "ROU",
+        "telephone_code": "+40",
+        "flag": "https://flagcdn.com/ro.svg"
+    },
+    {
+        "country_name": "Russia",
+        "iso_alpha2": "RU",
+        "iso_alpha3": "RUS",
+        "telephone_code": "+7",
+        "flag": "https://flagcdn.com/ru.svg"
+    },
+    {
+        "country_name": "Rwanda",
+        "iso_alpha2": "RW",
+        "iso_alpha3": "RWA",
+        "telephone_code": "+250",
+        "flag": "https://flagcdn.com/rw.svg"
+    },
+    {
+        "country_name": "Saint Kitts and Nevis",
+        "iso_alpha2": "KN",
+        "iso_alpha3": "KNA",
+        "telephone_code": "+1-869",
+        "flag": "https://flagcdn.com/kn.svg"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "iso_alpha2": "LC",
+        "iso_alpha3": "LCA",
+        "telephone_code": "+1-758",
+        "flag": "https://flagcdn.com/lc.svg"
+    },
+    {
+        "country_name": "Saint Vincent and the Grenadines",
+        "iso_alpha2": "VC",
+        "iso_alpha3": "VCT",
+        "telephone_code": "+1-784",
+        "flag": "https://flagcdn.com/vc.svg"
+    },
+    {
+        "country_name": "Samoa",
+        "iso_alpha2": "WS",
+        "iso_alpha3": "WSM",
+        "telephone_code": "+685",
+        "flag": "https://flagcdn.com/ws.svg"
+    },
+    {
+        "country_name": "San Marino",
+        "iso_alpha2": "SM",
+        "iso_alpha3": "SMR",
+        "telephone_code": "+378",
+        "flag": "https://flagcdn.com/sm.svg"
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "iso_alpha2": "ST",
+        "iso_alpha3": "STP",
+        "telephone_code": "+239",
+        "flag": "https://flagcdn.com/st.svg"
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "iso_alpha2": "SA",
+        "iso_alpha3": "SAU",
+        "telephone_code": "+966",
+        "flag": "https://flagcdn.com/sa.svg"
+    },
+    {
+        "country_name": "Senegal",
+        "iso_alpha2": "SN",
+        "iso_alpha3": "SEN",
+        "telephone_code": "+221",
+        "flag": "https://flagcdn.com/sn.svg"
+    },
+    {
+        "country_name": "Serbia",
+        "iso_alpha2": "RS",
+        "iso_alpha3": "SRB",
+        "telephone_code": "+381",
+        "flag": "https://flagcdn.com/rs.svg"
+    },
+    {
+        "country_name": "Seychelles",
+
+
+ "iso_alpha2": "SC",
+        "iso_alpha3": "SYC",
+        "telephone_code": "+248",
+        "flag": "https://flagcdn.com/sc.svg"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "iso_alpha2": "SL",
+        "iso_alpha3": "SLE",
+        "telephone_code": "+232",
+        "flag": "https://flagcdn.com/sl.svg"
+    },
+    {
+        "country_name": "Singapore",
+        "iso_alpha2": "SG",
+        "iso_alpha3": "SGP",
+        "telephone_code": "+65",
+        "flag": "https://flagcdn.com/sg.svg"
+    },
+    {
+        "country_name": "Slovakia",
+        "iso_alpha2": "SK",
+        "iso_alpha3": "SVK",
+        "telephone_code": "+421",
+        "flag": "https://flagcdn.com/sk.svg"
+    },
+    {
+        "country_name": "Slovenia",
+        "iso_alpha2": "SI",
+        "iso_alpha3": "SVN",
+        "telephone_code": "+386",
+        "flag": "https://flagcdn.com/si.svg"
+    },
+    {
+        "country_name": "Solomon Islands",
+        "iso_alpha2": "SB",
+        "iso_alpha3": "SLB",
+        "telephone_code": "+677",
+        "flag": "https://flagcdn.com/sb.svg"
+    },
+    {
+        "country_name": "Somalia",
+        "iso_alpha2": "SO",
+        "iso_alpha3": "SOM",
+        "telephone_code": "+252",
+        "flag": "https://flagcdn.com/so.svg"
+    },
+    {
+        "country_name": "South Africa",
+        "iso_alpha2": "ZA",
+        "iso_alpha3": "ZAF",
+        "telephone_code": "+27",
+        "flag": "https://flagcdn.com/za.svg"
+    },
+    {
+        "country_name": "South Korea",
+        "iso_alpha2": "KR",
+        "iso_alpha3": "KOR",
+        "telephone_code": "+82",
+        "flag": "https://flagcdn.com/kr.svg"
+    },
+    {
+        "country_name": "South Sudan",
+        "iso_alpha2": "SS",
+        "iso_alpha3": "SSD",
+        "telephone_code": "+211",
+        "flag": "https://flagcdn.com/ss.svg"
+    },
+    {
+        "country_name": "Spain",
+        "iso_alpha2": "ES",
+        "iso_alpha3": "ESP",
+        "telephone_code": "+34",
+        "flag": "https://flagcdn.com/es.svg"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "iso_alpha2": "LK",
+        "iso_alpha3": "LKA",
+        "telephone_code": "+94",
+        "flag": "https://flagcdn.com/lk.svg"
+    },
+    {
+        "country_name": "Sudan",
+        "iso_alpha2": "SD",
+        "iso_alpha3": "SDN",
+        "telephone_code": "+249",
+        "flag": "https://flagcdn.com/sd.svg"
+    },
+    {
+        "country_name": "Suriname",
+        "iso_alpha2": "SR",
+        "iso_alpha3": "SUR",
+        "telephone_code": "+597",
+        "flag": "https://flagcdn.com/sr.svg"
+    },
+    {
+        "country_name": "Sweden",
+        "iso_alpha2": "SE",
+        "iso_alpha3": "SWE",
+        "telephone_code": "+46",
+        "flag": "https://flagcdn.com/se.svg"
+    },
+    {
+        "country_name": "Switzerland",
+        "iso_alpha2": "CH",
+        "iso_alpha3": "CHE",
+        "telephone_code": "+41",
+        "flag": "https://flagcdn.com/ch.svg"
+    },
+    {
+        "country_name": "Syria",
+        "iso_alpha2": "SY",
+        "iso_alpha3": "SYR",
+        "telephone_code": "+963",
+        "flag": "https://flagcdn.com/sy.svg"
+    },
+    {
+        "country_name": "Taiwan",
+        "iso_alpha2": "TW",
+        "iso_alpha3": "TWN",
+        "telephone_code": "+886",
+        "flag": "https://flagcdn.com/tw.svg"
+    },
+    {
+        "country_name": "Tajikistan",
+        "iso_alpha2": "TJ",
+        "iso_alpha3": "TJK",
+        "telephone_code": "+992",
+        "flag": "https://flagcdn.com/tj.svg"
+    },
+    {
+        "country_name": "Tanzania",
+        "iso_alpha2": "TZ",
+        "iso_alpha3": "TZA",
+        "telephone_code": "+255",
+        "flag": "https://flagcdn.com/tz.svg"
+    },
+    {
+        "country_name": "Thailand",
+        "iso_alpha2": "TH",
+        "iso_alpha3": "THA",
+        "telephone_code": "+66",
+        "flag": "https://flagcdn.com/th.svg"
+    },
+    {
+        "country_name": "Timor-Leste",
+        "iso_alpha2": "TL",
+        "iso_alpha3": "TLS",
+        "telephone_code": "+670",
+        "flag": "https://flagcdn.com/tl.svg"
+    },
+    {
+        "country_name": "Togo",
+        "iso_alpha2": "TG",
+        "iso_alpha3": "TGO",
+        "telephone_code": "+228",
+        "flag": "https://flagcdn.com/tg.svg"
+    },
+    {
+        "country_name": "Tonga",
+        "iso_alpha2": "TO",
+        "iso_alpha3": "TON",
+        "telephone_code": "+676",
+        "flag": "https://flagcdn.com/to.svg"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "iso_alpha2": "TT",
+        "iso_alpha3": "TTO",
+        "telephone_code": "+1-868",
+        "flag": "https://flagcdn.com/tt.svg"
+    },
+    {
+        "country_name": "Tunisia",
+        "iso_alpha2": "TN",
+        "iso_alpha3": "TUN",
+        "telephone_code": "+216",
+        "flag": "https://flagcdn.com/tn.svg"
+    },
+    {
+        "country_name": "Turkey",
+        "iso_alpha2": "TR",
+        "iso_alpha3": "TUR",
+        "telephone_code": "+90",
+        "flag": "https://flagcdn.com/tr.svg"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "iso_alpha2": "TM",
+        "iso_alpha3": "TKM",
+        "telephone_code": "+993",
+        "flag": "https://flagcdn.com/tm.svg"
+    },
+    {
+        "country_name": "Tuvalu",
+        "iso_alpha2": "TV",
+        "iso_alpha3": "TUV",
+        "telephone_code": "+688",
+        "flag": "https://flagcdn.com/tv.svg"
+    },
+    {
+        "country_name": "Uganda",
+        "iso_alpha2": "UG",
+        "iso_alpha3": "UGA",
+        "telephone_code": "+256",
+        "flag": "https://flagcdn.com/ug.svg"
+    },
+    {
+        "country_name": "Ukraine",
+        "iso_alpha2": "UA",
+        "iso_alpha3": "UKR",
+        "telephone_code": "+380",
+        "flag": "https://flagcdn.com/ua.svg"
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "iso_alpha2": "AE",
+        "iso_alpha3": "ARE",
+        "telephone_code": "+971",
+        "flag": "https://flagcdn.com/ae.svg"
+    },
+    {
+        "country_name": "United Kingdom",
+        "iso_alpha2": "GB",
+        "iso_alpha3": "GBR",
+        "telephone_code": "+44",
+        "flag": "https://flagcdn.com/gb.svg"
+    },
+    {
+        "country_name": "United States of America",
+        "iso_alpha2": "US",
+        "iso_alpha3": "USA",
+        "telephone_code": "+1",
+        "flag": "https://flagcdn.com/us.svg"
+    },
+    {
+        "country_name": "Uruguay",
+        "iso_alpha2": "UY",
+        "iso_alpha3": "URY",
+        "telephone_code": "+598",
+        "flag": "https://flagcdn.com/uy.svg"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "iso_alpha2": "UZ",
+        "iso_alpha3": "UZB",
+        "telephone_code": "+998",
+        "flag": "https://flagcdn.com/uz.svg"
+    },
+    {
+        "country_name": "Vanuatu",
+        "iso_alpha2": "VU",
+        "iso_alpha3": "VUT",
+        "telephone_code": "+678",
+        "flag": "https://flagcdn.com/vu.svg"
+    },
+    {
+        "country_name": "Venezuela",
+        "iso_alpha2": "VE",
+        "iso_alpha3": "VEN",
+        "telephone_code": "+58",
+        "flag": "https://flagcdn.com/ve.svg"
+    },
+    {
+        "country_name": "Vietnam",
+        "iso_alpha2
+
+": "VN",
+        "iso_alpha3": "VNM",
+        "telephone_code": "+84",
+        "flag": "https://flagcdn.com/vn.svg"
+    },
+    {
+        "country_name": "Yemen",
+        "iso_alpha2": "YE",
+        "iso_alpha3": "YEM",
+        "telephone_code": "+967",
+        "flag": "https://flagcdn.com/ye.svg"
+    },
+    {
+        "country_name": "Zambia",
+        "iso_alpha2": "ZM",
+        "iso_alpha3": "ZMB",
+        "telephone_code": "+260",
+        "flag": "https://flagcdn.com/zm.svg"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "iso_alpha2": "ZW",
+        "iso_alpha3": "ZWE",
+        "telephone_code": "+263",
+        "flag": "https://flagcdn.com/zw.svg"
+    }
+]
